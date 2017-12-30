@@ -24,3 +24,4 @@ deploy:
   file: Test
   on:
     repo: vinyldarkscratch/travis-release-testing
+    tags: true
